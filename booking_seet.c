@@ -1,13 +1,13 @@
 
      //2D array
 
-
+//Booking cenima seet program in c
 
 
 #include <stdio.h>
 
 #define ROWS 5
-#define COLS 10
+#define COLS 10  
 
 int initializeSeatingChart(int seatingChart[ROWS][COLS]) {
     // Initialize the seating chart with available seats
